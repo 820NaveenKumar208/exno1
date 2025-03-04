@@ -1,4 +1,4 @@
-# Name : NAveen Kumar T
+# Name : Naveen Kumar T
 # Reg no: 212223220067
 ## Exno:1
 ## Data Cleaning Process and Outlier detection & removal
